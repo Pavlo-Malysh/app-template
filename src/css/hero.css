@@ -1,0 +1,24 @@
+.hero-section {
+  height: 840px;
+  padding-top: 100px;
+  background-color: #576f35;
+  background-image: url(../img/hero/hero-img-mob-min.webp);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: bottom;
+
+}
+
+.hero-title {
+  font-weight: 600;
+  font-size: 52px;
+  line-height: 1;
+  letter-spacing: -0.01em;
+  text-transform: uppercase;
+  color: #fbfbfb;
+  padding-bottom: 20px;
+}
+
+.hero-text {
+  color: #fbfbfb;
+}
